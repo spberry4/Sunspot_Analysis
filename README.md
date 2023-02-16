@@ -52,7 +52,7 @@ We are going to start with the 4 lags that are possibly correlated and if we nee
 
 The plot shows that there is something that we are most likely missing the data and not capturing in the model. We can also clearly see that from the stats below:
 
-Mean Absolute Percent Error: 3.605
+Mean Absolute Percent Error: 3.605 <br>
 Root Mean Squared Error: 47.4090714934382
 
 There are several steps that we could take in order to improve the model potentially. The are as follows:
