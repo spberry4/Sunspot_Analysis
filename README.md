@@ -4,11 +4,18 @@
 
 The data used here comes from the Sunspot Index and Long Term Solar Observations. The following packages were used in order to complete the analysis and subsequent forecasting:
 
-- Plotly <br>
-- Pandas <br>
-- Statsmodel <br>
-- Numpy <br>
-- Scipy <br>
+```python
+import plotly.express as px
+import matplotlib.pyplot as plt
+from statsmodels.tsa.seasonal import seasonal_decompose
+import statsmodels.api as sm
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
+import numpy as np
+import scipy
+from statsmodels.tsa.arima_model import ARMA
+```
 
 This project is part of my portfolio in order to display how to perform exploratory analysis on data that i found interesting. Below you will find the steps that I took and the plots that were generated. The data used can be found here: https://www.sidc.be/silso/datafiles.
 
