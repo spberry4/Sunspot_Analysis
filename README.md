@@ -5,6 +5,7 @@
 The data used here comes from the Sunspot Index and Long Term Solar Observations. The following packages were used in order to complete the analysis and subsequent forecasting:
 
 ```python
+import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
 from statsmodels.tsa.seasonal import seasonal_decompose
