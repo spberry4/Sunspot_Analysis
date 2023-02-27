@@ -22,7 +22,7 @@ This project is part of my portfolio in order to display how to perform explorat
 
 ## The Solar Cycle
 
-The sun's solar cycle is about 11 years long and this can be measured using the number of sunspots that are visible to us. For the past 200+ years humans have been able to record this and track this cycle. 
+The sun's solar cycle is about 11 years long and this can be measured using the number of sunspots that are visible to us. For the past 200+ years humans have been able to record this and track this cycle. The sun is a sphere of plamsa. This plasma and gravitation create an immensely strong magnetic field radiating out from the core. Sunspots are the extrusion of that magnetic field out onto the surface. Scientists determined that when there are more sunspots on the surface of the sun the sun is actually more active and therefore when there are less sunspots, less active. The the maximum of this cycle can lead to solar flares or coronal mass ejections which can affect electronics and disrupt power grids. The study of this sunspot activity lead to the discovery of an 11 year solar cycle that can be visually measured from Earth.
 
 ## Exploratory Analysis
 
